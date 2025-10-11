@@ -1,0 +1,1944 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="50027px" height="12138px" viewBox="-0.5 -0.5 50027 12138" content="&lt;mxfile pages=&quot;2&quot; scale=&quot;5&quot; border=&quot;0&quot;&gt;&lt;diagram id=&quot;S04JQJvGJJ70Qri9tyUN&quot; name=&quot;P3_シード＋ラリアット＋シード&quot;&gt;7Z3dc+LIFcX/GqrywhT6RHoEf+xWkkkm5anaVN5Yo7HJYuPFeD72r48k1ALubXlhhqbPcZiHXRBYwK9vd5/TfXXViy4evv60nDzdv19Mi3kvHEy/9qLLXhhGWZiV/6uOfFsfifM8Xx+5W86m62PB5sDN7I+iOThojr7MpsXzzhtXi8V8NXvaPXi7eHwsblc7xybL5eLL7ts+Lea7n/o0uSvUgZvbyVwf/WU2Xd2vj4aDONu88HMxu7tvPjoe5On6lYeJeXfzU57vJ9PFl61D0VUvulguFqv1o4evF8W8wmfArP/uuuPV5ps9r76Z7zpf3P5WVK8GvWhsvt6yeFztc7r5w+f3357CT+Hqp/Tx4fq/3z6Of+o3P+XzZP7SfMb1rCgJuv/kXH2y+tAv97NVcfM0ua2efynjr/zs+9XDvPkak+endUB8mn2tvtv402w+v1jMF8v6z6MoGpT/yuPPq+Xit2LrlevrbP2K/iWvUiqWq+LrVuM0P/enYvFQrJbfyrc0ryYmJJpeEZjnXzYhFrQH77fCa3N00gT2XXv2DeLyQUP5AOKmxx0V+eJxddP8eeCKZjrYpRkOLDStMN2xDEhZDkM8liEpyyzGYxmRssxTPJYxKctgkOHBTFhhhoCzj5ZtJDAjwOlnyAozBpx/MlKYUmNGNsV+YpYuLJIPjQnA0pyYjqXUmAgsWb2P1JgILFm9j9KYCDBZzY/SmAgwad2P1JgIMGndj9SYCDAduB9X/KSsbHF6xOfA77jCJ5UkAj4HDscVPikeEfA5MDWu8Em9CIAvcuBjnM0dUiIi8HPgXZzxk6oQgZ8Dv+KMnxSCCPwcWBRn/KT2Q+DnwJW44ie1X5L6x+fAh7jCJ7UfAj4i5yG1HwI+IuchtR8CPiLnobQfAj8i66G0HwA/M6BQ8JPaD4Efk/eQ2g+BnwPv4WVvOc38s2TdKpGqEIEl606JlIgILFk3SqReRGBJmyUmxSMCTNosMakkEWCyZokpWYkAkzVNTGlMAJgJa56Y1JiZ/1zQhDVPTGpMBJas3kdqTASWrN5HakwElqzeR2lMBJis5kdpTASYtO5HakwEmLTuR2pMBJhE+zhSVub+0z8Tom0cqSQB8BkNwYBPikcEfESbOFIvIuBz4GOczR1SIiLwY8ofk6oQgR9R/pgSggj8iBLIlPZD4EeUQSa1XzDwn/+ZEqWQSfEHwY/Ie0j1B8GPyHxI+YfAb0jkPpT+gwBI5D+UAIQAyORApAKEAMhkQaQEhAC4hwcpTzN7ei6fjH+wCGZe/2uWW3eKY1b/erI45rT4NHmZr5yOqsaDmV1/83yrRcxlZtsNYo79SHt8vLrJP3z9/a8v/fn7+9//8/CP+TTvOxgQcCqR9oNEygCbC7J3gaP0AStz1i3YfhB7ra1nhcm6B9sPIq9VH60wWfdg+0HotRycFSbrHmx/M/ThwGTdg+0HA68lNK0wWTNQ+xne/MOagNof4k0/tEXa+yne9ENbpV3LzNPW3bLTdGGU/OhMBJq8FkgKTQSavB5IKk0EmrwmSEpNBJq0LkhqTQSYtC5Iik0EmLQuSIpNBJhEW8NaX562tpd9HZ5ob1hLSgSARHvDWkUiAHTgcNwBlMIRASDR3rDWiggAifJTlTxE4EeUn6oUIQI/ovxUJQIR+BHlp2oReNoiX3aARAmqWgQiAKSyIVIEAgBkKrGuRSACQCobIkUgAkAmGyJFIAI/JhciRSACPyYTIkUgAj/e7ROpCE9bkstOk3b7RMlDBJq0+ydKKyLQpN1AUcIRgSZtIplSkQA0XZRr97PtjACTNpNM6ksEmA78jZ9tZwSYvHlkUmyetjaXnSZvHpkUmwg0eY2QFJsINHmNkBSbCDR5jZAUmwg0aY2QFJsIMGl9kBSbADBpK7orsYkAk2prR+rL09b/sgN0YH3cAZSSEgEg096OUpEIAJk2d5RwRADIlGKmtCICQKYcMykPEfgx5ZhJRYjAjynFTIpABH5UGWZSBJ64Api9LApViplUgRAEqYyIlIEQBKmciNSBEASprIgUghAEmbyIVIIQAJm8iJSCEACZvIjUghAA9zAjxZstZloOq6a6A0o108xFPgBMOdON/0GqZpqxZg1EiJX5WJMGIilSEWCy5gxEgNVMM9aUgQiwzm7GmjEQAVaAzlgzBiJ5kyEAmDlrxkAk7ziEAJM1cTqStx9CgBmywgQsy5ezJk4rnYkAk9YBARYzzWkdEGCd3ZzWAQGWgM5pHZDUmQgwaR2Q1JkIMGkdkNSZADAD01kYtkWUtgQoAxYMiPITlJ6EAOjA6jgDCFjKNBgQZSco3QgBkCg5QWlFCIBEyQlKH0IAJEpOUJoQAiBRprTSgRAAiVKllQ4EqAQWDIhypZUORADo4n5ozgACVjMNXNwDzRlAwHq6gYvbnjkDCFjROXBxpzNnAKUOhADI5ESkDoQAyOREpA6EAEi7iQJYmC+gvYeZUogQNGm3UQALmgYu7mLmZ+8ZgaY5Mx9NwELQgYv7m/nZfYag6cDX+Nl+hqBJm00m9SYETdp0MsDafIGLm6L50ZsQNGm9EGBN08DFDdP86E0ImrReCLAWdODiVmp+9CYCTRf3VfOjNyFo0nohqTchaDrwQs4AApb0C5huuaZUJQRApj0ewLKmgYubrjkDCFhYN3BxnzVnAAFLOwcubq3mDKBUiBAAmbLNpCiEAMiUbSZ1IAJAF/dMcwYQsaJf4OJGac4ISiGIQZDJiyBWNg1c3BLNGUHE6rqBi9ugOSOIWOE5cHHrM2cEpRjEIMjkR6QaxCDIZEikHMQguIcjKd5sddMoNsVMPRQ3/XU1/fe/7q4/389HX/4W9X8tRrNf3JRMgCluGsdyHLZZInsfOEonsDNn3QWL/Rbqs8J0UlnhNDT9VurroMm6Cxb7LdXXQdOB8zwNTb+1+jposmYExrnXarEdNFkzApMB4izEmhGYhIizEGtGYBIhzkKsGYFKb562klcHTdaMQKU3IWjSeiG/JfvsNF3UdvCjNyFo0nohqTchaLJ6IaU3IWiyeiGlNyFo0nohqTchaBLt1CmJedoiYR0AiTbqlKqEAEi0T6eEJARAosRBpR0hABIlDiq5iADQnJkBoFKIEACJ8gaVKIQA6MCwOAModSAEQKKsQaUDT1skrAMgUdKg0oEQAJmciN86fx0AmZyI3zp/HQCZnIjUgRAAiZyI0oEQAImciNKBCABdlFlwBlDqQAiAtPsofmv2ddB0YEv87D9D0GTdR1FyEYIm6z6K0o4QNFlzypSQhKBJm1MmVSUETdacMiUxIWiy5pQpvQlBkzanzG/NPjtNFxUc/OhNCJq0Xshvzb4OmrReyG/Nvg6atF5I6k0ImqxeSOlNCJqsXkjpTQiatF5I6k0Imkx7PH7r/HUAJNrjUaoSAiDRHo8SkggAE6I9HqUdIQASZZspuQgB0IGVcTYLS4UIAZAo20yJQgiARNlmSgdCAGTKNvNc46+DIFO6mecafx0EmbyI5xp/HQSZzIjnGn8dBJnciNSCEATNd2IgqMQgBkEiP6LUIAZBJkMi5SAGwT0cSfFma53GeQxW6zTIHAyrOMVOUyVIbZ7I3gkc9oKMdcc7TQHrzGUORuXT0MwA68xlrDveaR4C0mTd8R4OAKudZqw73sMAsNppxrrjPQwRZyHW7N+hLAgPQZM1+3eYIM5CrNm/Sm8i1PLKXVgmL3oTgiatF5J6E4ImqxdSehOCJqsXUnoTgiatF5J6E4ImrReSehOCJq0XknoTgibRjruSmAhlwlzcgswZQKkqIQAS7bcrIQkAsHWtDACVdoQASLTbruQiBEAHVsYZQKkQIQASZf8qUQgBkCj7V+lACIBE2b9KBwKUCQtd3PTLGUCpAyEAMjkRqQMhABI5EaUDIQASORGlAxEAuriBlzOAUgdCAGRyIlIHQgBkciJSB0IAZN1HUaIQoJZXSHtnLqUQIWiy7qMouQhBk3YfRWpHCJq0OWVSSELQpM0pk6oSgiZrTpmSmAg0zZn5aEq9CUGTNqdM6k2AWl6hgcdHU+pNCJq0XkjqTQiarF5I6U0ImqxeSOlNCJq0XkjqTQiatF5I6k0ImrReSOpNCJpEezxKYgKUCQuZ7iemVCUEQKI9HiUkIQA6MDnOxkCpHSEAMmWbSbkIAZAp20wqRAiARNlmShRCACTKNlM6EAIgU7aZ1IEI9cFCF3f9ckZQCkEMgkxeRCpBCIIu7u7lbBiUUhCDIJEbUVoQgyCTHZFiEIMgkx+RahCDIJMhkXIQg+AejqR4s9VOh4HHaqfWn6Dl+Xjx/KyaZL64/a0iXGPXdAbb30N98Merm/zD19//+tKfv7///T8P/5hP876eD8f/vLk5YiwsyrfOVhXn4UCExuPisdBRMRh0FWW9GEZJ/Uq9nj/7o/oGyeadvzRtFyT7h87w0NDZ1KU1VbQi3ZvzgaU3twd/JHisbZhqa3JuxNcbsS33bHLRTQre9gAQWVqxPXj8ygDnRjyoEcMw9NkT7W041Mrk3IqvtaIqBn/aVrT/CL3aOFpcHXcytn7wPpU675aLlypGHhafJ782O9rReFk8z/7Yfr5YTVZbz6fFvNh+Xkxn20/bn1K1/u3i8bGMua2X9238LiEWDnbPaeh0RkWU7wZFP7blbuaJJSw2ZYaOHhf7FKAuW+dx2qL8k84tdHJbdH63pzbd+m45mc6KTdduDovxoG742eKxfJ4fUL8+O7jjZmn+LjVlj7dbxdZXgyzK35k16OO3yx52EKhd4gPG0+9olyFOu+xhMoHaJTpkouPuMHtspwE1jNtxDKe/7FPUE3j672R/8PTfl/c7tE3/YWzzZ0F7k7XjNw/XNHPI9N9GHuNotk+9UaB2OWT6/452ARrOuGaZg6Z/7g6zh80Eahi34xhQf9kjPwJ4+u9kf/D0L2f//uBd2ixjNf/0Yq19McChGmgDhKQXHSQH8o6mZBjdgn3qmwI1zEF64PCGwRnfgn3qpgI1zGGCgLvLcK1suh3KkHrMHpYTWBK4WBHYbpF2dj/ZnM9lNQ+Z8zexxjmCcZnNQyb972kZpDGMy20eNOuzd5o9rmkAahrHo5mXPtNxM3rHS82fPhXp7e2+DbPdkseZbDozBbozAoIoexfsJm31400bbDVYmtsaLAiyd8PEUYOFydtdDDi8rYZRHJZdKc7Nv0Q0m0mk8NvLwuTtLhR8T6MlHI32hhcR3nBXe7MLDG+4p73d/e7DGy3N0lcbDaTJuNYn3M5oaTZkaDKuhQvH8xlJN+Na0nA8MFL0Mq6VDr/+bPAuDfOtfwnEokiY7JEfAdSGfu1ahNmGKdc6iWf3htqIXOsmXs0cahPusYoCvLF8vCvNkjyXi8o2++1wp7mjgbgWTDoEy58EH/imWce351oW6ZAhR2sZnF2zMOVa/egSF2+y03CtcjgezZD6jDZVf5+VdNSPf/1ydvvJh3uo/eJxOlouF182zTKdPN+319V3N/k0KbJprJq8rit0fV3XG9qtYxCmzck/TFarYvlYnzYclA01/u/Lw1NTACEYmOfNd2y+1fP95Kl6Op89/nZIdDR8i+ld8WpsbMWBLZPdHFsW8zJIP2+fyx4WzSd8WMzKL7hJrW/T5I3cUUWmnhcvy9ui+bvtJhenSoZdd1IzZ1pNlnfFSp2pDtT2l/9A7A738CHn8DplePWDztuSHhpe1QUWJ4svu8nQcuLDfPKtWKogO35ZLsuw/P6j+txDa8dsZtjAFtjX1+PLqArsyfK2CddooOO8t1MwJoyb59eTh9m8aqq/v9zOppPym14sHp8X1XcdT+azu6pD3JZMSn7RuJosZ7eT+ah54WE2ndbv3L1Vh+qVg0F8YSsl1351Tf/1tj2gZlQ7nZmLks39v7f6ls0mHsMkWoPEMr3+HJyDpAySKGrrGnkOktx7kOhJ8uY8kngdSYZwA4leDfxZS6n/xxjxNpDIGPE/jugFycvzZBNGadqU1/Mx2QgzF1tq5502SPTa6GV8DhKfQTIUpfSy3HeMaFt1GZ1jBGog8R8ker348qxIoAaSU0429quktLM5r5F4dTZ1OeGdccRy1fZpY8TibM6q1aeziVq3CxMj2tmcV0iwxhHbLfROGyPa2JxXSHyPI+G75E+jJBqaN+3cxaE9evxIsdib84zjU7lGcYo241jczXmZxGuMRHK91fuMo68xOi+TYMWI/3FEX9V0XiXBmmv8jyOW1MvzMolXe5MEHjeAO4JEzzbndRKv/iZO4dZbLfcZPC+UeB5JPO7udQSJzlw8r5T4HUmGYsX1lLkkHd5GZy6eF0m8Clc1kvifbiyZi+dVEq9BojSJ/+nGkrp4XibxGyRyuvHvbmy5i2dN4ne68Zjf2hEkeuNmfeWYjJMfutqn47P3uDx260q22/nk+Xl2uxufu3GV6dbuvqItC38tY8H6a15nBXLZWXfeyaFXnUVDcTvqWAac44sag+EetcXOofBKKMRiYJEN+N2hkMsrZZ2Hwh5Fy86h0B0KsRwVht8bCmHse1TYo/bZORS6Q0Ft7373qCBDweGoYM+M1pHwsfi6UtFwqDCxflhmucL+KuplUS9Pmwejy/pB2BulzYPxsHlpfNE8yPLe1XX1NA96V0kvH/fyq97VsHowuvqLOeOVeXdkjgyrd2cXzYO8PMWod5VW/60+vj5jderyzUF5ouqlbNzLkurN48teXp4nrh5kl9WHlQ/K90hMq4rdrs7fW11vl8KqVPRT1eZ1FCTjXnJZnetltXhuLvxX/aq58n+7E5pDG0OQ2EuRvB4aB2T+J6nW3cHAdgcFOXgeLdc/0xYeMMjWD8qmGJhvkJvvFJuvEpmXBvXbys/O67Ml1R+aynDn4DMe0LI1Hphh6uihZ6+fYY+8sk1D2bh5JANulJsHo92/2oquLOtdZdU7R4M6usrxKKhHpayK6f3jYV58Wr3taLBmSqSnjQa9K1H33aQ3yurWK5s6aKabbLT7IKybuj6SX25auPyrMoKquak8Uo4BdTiMr+sxaj1tjev3XPey2JxnfcJB9WqYzqtmn84+lw/vqof19xiYdw/q2S7rZcM6CJPqS2Sp+WYX5jPMHNnE8PpTs+rHtO/Jrs2DsYz85je3kR9Wv605oRkDq4Fx/V1L8ttf9xzithD/Zka7oY751qXsVAGLnAW9TeK1MVoqqqveKDFhc11NaqNhFcrtpFZJq6g+sjsGtgNmMzxGJjLL97RxOJIhOjLz+r6jayn1rrZC3czveRur+Sbmbd1JdMdE9oeR/oxxxaX85aO1wCylg/kZ+dD0h3i3hwSbI20Hy0L1VxeSS/VXa+VhulxW9/NRrXDXR8bXW+yMXjn3xsN7Y+vq/1SQuOuOga2I5fE1SVL1lFLrbmaBNsaN0P0hCR5qCb4byKKHdgvvc8huQjZuV7S2IzQ+rUiKLXsVUl5cmaa9ViF7bTFLr43dOjLasU4Pwsrub5RQWinvsRlXx+alzVTUyqZWiNknjFp25YPd7nWUTrk+c2DvnWVXyMyIPxrvEm9njrDuefvLt6H68e3EYz5iZyramhFLyVnRzOuXEjmB5abh2xOepeL39fTXpGKQnXZyCmPL5pSreeK81HK8cKo2+rXRsC24O5w3LLtZlZvINtNFFQ5pNcyNMjkwbQaUvHrP6GJjxUdXNldinQqOOD5u+4OOQXCk35zWE1FmhvuwZzaqz+Nex7gX28a92OaRHYau3nMZ//PmRrVcea7Z03MF7NBcIlGKvKMJdtKJB7aC5+UrF8M6HUI32u7+X0fx+WMNODIJrJ9YLpbLbQXP24MHtGP5dLlYrLZ32krm9+8X06J6x/8A&lt;/diagram&gt;&lt;diagram name=&quot;P3_シード＋ラリアット＋シード_3x3&quot; id=&quot;S_txVt2Xye8X_J9ov9-M&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="drawio-svg-9qqrAyDCCEc8SA5yR3zt-gradient-light-dark_ffe6cc_36210a_-1-light-dark_ff8000_ce6100_-1-s-0">
+            <stop offset="0%" stop-color="#ffe6cc" stop-opacity="1" style="stop-color: light-dark(rgb(255, 230, 204), rgb(54, 33, 10)); stop-opacity: 1;"/>
+            <stop offset="100%" stop-color="#FF8000" stop-opacity="1" style="stop-color: light-dark(rgb(255, 128, 0), rgb(206, 97, 0)); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <g>
+            <rect x="11065" y="3535" width="5600" height="5600" fill="#330000" stroke="#ff8000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(51, 0, 0), rgb(255, 218, 218)); stroke: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="11465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12665" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13265" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13865" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="14465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15665" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="11465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12665" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13265" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13865" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="14465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15665" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="11465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12665" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13265" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13865" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="14465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15665" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="11465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12665" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13265" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13865" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="14465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15665" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="11465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12665" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13265" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13865" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="14465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15665" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="11465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12665" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13265" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13865" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="14465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15665" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="11465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12665" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13265" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13865" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="14465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15665" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="11465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="12665" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13265" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="13865" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="14465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="15665" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="13865" cy="6335" rx="80" ry="80" fill="#999999" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="665" y="3535" width="5600" height="5600" fill="#330000" stroke="#ff8000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(51, 0, 0), rgb(255, 218, 218)); stroke: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="1065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1665" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2265" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2865" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="3465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4665" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="5265" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1665" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2265" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2865" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="3465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4665" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="5265" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1665" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2265" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2865" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="3465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4665" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="5265" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1665" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2265" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2865" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="3465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4665" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="5265" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1665" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2265" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2865" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="3465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4665" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="5265" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1665" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2265" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2865" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="3465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4665" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="5265" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1665" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2265" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2865" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="3465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4665" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="5265" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="1665" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2265" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="2865" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="3465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="4665" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="5265" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="3465" cy="6335" rx="80" ry="80" fill="#999999" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="23065" y="3535" width="5600" height="5600" fill="#330000" stroke="#ff8000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(51, 0, 0), rgb(255, 218, 218)); stroke: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="23465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24665" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25265" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25865" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="26465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27665" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="23465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24665" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25265" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25865" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="26465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27665" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="23465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24665" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25265" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25865" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="26465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27665" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="23465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24665" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25265" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25865" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="26465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27665" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="23465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24665" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25265" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25865" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="26465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27665" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="23465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24665" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25265" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25865" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="26465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27665" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="23465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24665" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25265" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25865" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="26465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27665" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="23465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="24665" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25265" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="25865" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="26465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="27665" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="25865" cy="6335" rx="80" ry="80" fill="#999999" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="30465" y="3535" width="5600" height="5600" fill="#330000" stroke="#ff8000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(51, 0, 0), rgb(255, 218, 218)); stroke: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="30865" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="31465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32665" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33265" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33865" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="34465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="35065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="30865" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="31465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32665" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33265" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33865" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="34465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="35065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="30865" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="31465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32665" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33265" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33865" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="34465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="35065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="30865" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="31465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32665" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33265" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33865" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="34465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="35065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="30865" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="31465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32665" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33265" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33865" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="34465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="35065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="30865" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="31465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32665" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33265" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33865" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="34465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="35065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="30865" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="31465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32665" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33265" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33865" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="34465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="35065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="30865" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="31465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="32665" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33265" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="33865" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="34465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="35065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="33265" cy="6335" rx="80" ry="80" fill="#999999" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="41465" y="3535" width="5600" height="5600" fill="#330000" stroke="#ff8000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(51, 0, 0), rgb(255, 218, 218)); stroke: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="41865" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43665" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44265" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44865" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="45465" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="46065" y="3935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="41865" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43665" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44265" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44865" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="45465" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="46065" y="4535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="41865" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43665" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44265" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44865" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="45465" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="46065" y="5135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="41865" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43665" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44265" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44865" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="45465" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="46065" y="5735" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="41865" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43665" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44265" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44865" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="45465" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="46065" y="6335" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="41865" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43665" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44265" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44865" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="45465" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="46065" y="6935" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="41865" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43665" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44265" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44865" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="45465" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="46065" y="7535" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="41865" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="42465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="43665" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44265" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="44865" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="45465" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="46065" y="8135" width="600" height="600" fill="#ffffff" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="44265" cy="6335" rx="80" ry="80" fill="#999999" stroke="#000000" stroke-width="5" pointer-events="all" style="fill: light-dark(rgb(153, 153, 153), rgb(106, 106, 106)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <ellipse cx="9815" cy="6335" rx="2250" ry="2250" fill="none" stroke="#c73500" stroke-opacity="0.7" stroke-width="75" pointer-events="all" style="stroke: light-dark(rgb(199, 53, 0), rgb(255, 145, 100));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 898px; height: 1px; padding-top: 1267px; margin-left: 1514px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    BOSS
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="1963" y="1282" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="50px" text-anchor="middle">
+                        BOSS
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <ellipse cx="3475" cy="6350" rx="825" ry="825" fill="none" stroke="#c73500" stroke-opacity="0.7" stroke-width="75" pointer-events="all" style="stroke: light-dark(rgb(199, 53, 0), rgb(255, 145, 100));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 328px; height: 1px; padding-top: 1270px; margin-left: 531px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    BOSS
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="695" y="1285" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="50px" text-anchor="middle">
+                        BOSS
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <ellipse cx="21815" cy="6335" rx="2250" ry="2250" fill="none" stroke="#c73500" stroke-opacity="0.7" stroke-width="75" pointer-events="all" style="stroke: light-dark(rgb(199, 53, 0), rgb(255, 145, 100));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 898px; height: 1px; padding-top: 1267px; margin-left: 3914px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    BOSS
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="4363" y="1282" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="50px" text-anchor="middle">
+                        BOSS
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <ellipse cx="37315" cy="6335" rx="2250" ry="2250" fill="none" stroke="#c73500" stroke-opacity="0.7" stroke-width="75" pointer-events="all" style="stroke: light-dark(rgb(199, 53, 0), rgb(255, 145, 100));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 898px; height: 1px; padding-top: 1267px; margin-left: 7014px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    BOSS
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="7463" y="1282" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="50px" text-anchor="middle">
+                        BOSS
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g/>
+        <g>
+            <rect x="14763.42" y="535" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(90,15013.42,5133.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="14813.42" y="535" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(45,15063.42,5133.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="14763.42" y="535" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(315,15013.42,5133.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="14813.42" y="535" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g/>
+        <g>
+            <rect x="12363.42" y="2935" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(90,12613.42,7533.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="12413.42" y="2935" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(45,12663.42,7533.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="12363.42" y="2935" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(315,12613.42,7533.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="12413.42" y="2935" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g/>
+        <g>
+            <rect x="14763.42" y="2931.85" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(90,15013.42,7530.28)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="14813.42" y="2931.85" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(45,15063.42,7530.28)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="14763.42" y="2931.85" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(315,15013.42,7530.28)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="14813.42" y="2931.85" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g/>
+        <g>
+            <rect x="12363.42" y="535" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(90,12613.42,5133.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="12413.42" y="535" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(45,12663.42,5133.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="12363.42" y="535" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(315,12613.42,5133.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="12413.42" y="535" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="24155.65" y="2688.15" width="3450" height="5593.75" fill-opacity="0.7" fill="url(#drawio-svg-9qqrAyDCCEc8SA5yR3zt-gradient-light-dark_ffe6cc_36210a_-1-light-dark_ff8000_ce6100_-1-s-0)" stroke="none" transform="rotate(90,25880.65,5485.03)" pointer-events="all" style="fill: url(&quot;#drawio-svg-9qqrAyDCCEc8SA5yR3zt-gradient-light-dark_ffe6cc_36210a_-1-light-dark_ff8000_ce6100_-1-s-0&quot;);"/>
+        </g>
+        <g>
+            <rect x="45178.42" y="520" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(90,45428.42,5118.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="45228.42" y="520" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(45,45478.42,5118.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="45178.42" y="520" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(315,45428.42,5118.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="45228.42" y="520" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="42778.42" y="2920" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(90,43028.42,7518.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="42828.42" y="2920" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(45,43078.42,7518.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="42778.42" y="2920" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(315,43028.42,7518.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="42828.42" y="2920" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="45178.42" y="2931.85" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(90,45428.42,7530.28)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="45228.42" y="2916.85" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(45,45478.42,7515.28)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="45178.42" y="2916.85" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(315,45428.42,7515.28)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="45228.42" y="2916.85" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g/>
+        <g>
+            <rect x="42778.42" y="520" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(90,43028.42,5118.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="42828.42" y="520" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(45,43078.42,5118.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="42778.42" y="520" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" transform="rotate(315,43028.42,5118.42)" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <rect x="42828.42" y="520" width="500" height="9196.85" fill-opacity="0.7" fill="#ff8000" stroke="none" pointer-events="all" style="fill: light-dark(rgb(255, 128, 0), rgb(206, 97, 0));"/>
+        </g>
+        <g>
+            <path d="M 33265.95 2283.42 L 37315.95 6283.42 M 37214.05 6386.58 L 33164.05 2386.58 M 37214.05 6386.58" fill="none" stroke="#33ff99" stroke-width="130" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="130 260" pointer-events="all" style="stroke: light-dark(rgb(51, 255, 153), rgb(0, 105, 17));"/>
+        </g>
+        <g>
+            <path d="M 65 6262.5 L 3465 6262.5 M 3465 6407.5 L 65 6407.5 M 3465 6407.5" fill="none" stroke="#33ff99" stroke-width="130" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="130 260" pointer-events="all" style="stroke: light-dark(rgb(51, 255, 153), rgb(0, 105, 17));"/>
+        </g>
+        <g>
+            <rect x="2115" y="4985" width="200" height="200" rx="60" ry="60" fill="#004c99" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 76, 153), rgb(125, 190, 255)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1017px; margin-left: 424px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    MT
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="443" y="1024" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        MT
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="2115" y="7485" width="200" height="200" rx="60" ry="60" fill="#003300" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 51, 0), rgb(174, 218, 174)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1517px; margin-left: 424px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    H1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="443" y="1524" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        H1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="4615" y="4985" width="200" height="200" rx="60" ry="60" fill="#004c99" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 76, 153), rgb(125, 190, 255)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1017px; margin-left: 924px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    ST
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="943" y="1024" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        ST
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="4615" y="7485" width="200" height="200" rx="60" ry="60" fill="#003300" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 51, 0), rgb(174, 218, 174)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1517px; margin-left: 924px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    H2
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="943" y="1524" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        H2
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="2215" y="5085" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1037px; margin-left: 444px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="463" y="1044" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="4515" y="7385" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1497px; margin-left: 904px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D4
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="923" y="1504" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D4
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="2215" y="7385" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1497px; margin-left: 444px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D3
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="463" y="1504" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D3
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="4515" y="5085" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1037px; margin-left: 904px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D2
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="923" y="1044" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D2
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25965" y="7335" width="200" height="200" rx="60" ry="60" fill="#004c99" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 76, 153), rgb(125, 190, 255)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1487px; margin-left: 5194px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    MT
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="5213" y="1494" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        MT
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25515" y="7335" width="200" height="200" rx="60" ry="60" fill="#003300" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 51, 0), rgb(174, 218, 174)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1487px; margin-left: 5104px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    H1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="5123" y="1494" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        H1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25965" y="7535" width="200" height="200" rx="60" ry="60" fill="#004c99" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 76, 153), rgb(125, 190, 255)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1527px; margin-left: 5194px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    ST
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="5213" y="1534" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        ST
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25527.5" y="7535" width="187.5" height="187.5" rx="56.25" ry="56.25" fill="#003300" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 51, 0), rgb(174, 218, 174)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 36px; height: 1px; padding-top: 1526px; margin-left: 5107px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    H2
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="5124" y="1533" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        H2
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25765" y="7335" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1487px; margin-left: 5154px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="5173" y="1494" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25315" y="7535" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1527px; margin-left: 5064px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D4
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="5083" y="1534" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D4
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25315" y="7335" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1487px; margin-left: 5064px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D3
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="5083" y="1494" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D3
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="25765" y="7535" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1527px; margin-left: 5154px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D2
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="5173" y="1534" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D2
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="34315" y="4985" width="200" height="200" rx="60" ry="60" fill="#004c99" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 76, 153), rgb(125, 190, 255)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1017px; margin-left: 6864px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    MT
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6883" y="1024" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        MT
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="31915" y="5085" width="200" height="200" rx="60" ry="60" fill="#003300" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 51, 0), rgb(174, 218, 174)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1037px; margin-left: 6384px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    H1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6403" y="1044" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        H1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="34415" y="7385" width="200" height="200" rx="60" ry="60" fill="#004c99" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 76, 153), rgb(125, 190, 255)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1497px; margin-left: 6884px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    ST
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6903" y="1504" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        ST
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="32015" y="7485" width="200" height="200" rx="60" ry="60" fill="#003300" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(0, 51, 0), rgb(174, 218, 174)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1517px; margin-left: 6404px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    H2
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6423" y="1524" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        H2
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="34415" y="5085" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1037px; margin-left: 6884px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D1
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6903" y="1044" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D1
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="31915" y="7385" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1497px; margin-left: 6384px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D4
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6403" y="1504" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D4
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="32015" y="4985" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1017px; margin-left: 6404px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D3
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6423" y="1024" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D3
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="34315" y="7485" width="200" height="200" rx="60" ry="60" fill="#660000" stroke="#ffbd39" stroke-width="10" pointer-events="all" style="fill: light-dark(rgb(102, 0, 0), rgb(255, 200, 200)); stroke: light-dark(rgb(255, 189, 57), rgb(124, 67, 0));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 1517px; margin-left: 6864px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #FFBD39; ">
+                                <div style="display: inline-block; font-size: 24px; font-family: &quot;Lucida Console&quot;; color: light-dark(#FFBD39, #7c4300); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                    D2
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6883" y="1524" fill="#FFBD39" font-family="&quot;Lucida Console&quot;" font-size="24px" text-anchor="middle" font-weight="bold">
+                        D2
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <path d="M 25965 7335 L 27021.52 5221.96" fill="none" stroke="#82b366" stroke-width="40" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 27045 5175 L 27045 5253.26 L 27021.52 5221.96 L 26982.39 5221.96 Z" fill="#82b366" stroke="#82b366" stroke-width="40" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(130, 179, 102), rgb(68, 110, 44)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <path d="M 26165 7635 L 26968.37 7545.74" fill="none" stroke="#82b366" stroke-width="40" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 27020.55 7539.94 L 26954.85 7582.45 L 26968.37 7545.74 L 26947.12 7512.88 Z" fill="#82b366" stroke="#82b366" stroke-width="40" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(130, 179, 102), rgb(68, 110, 44)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <path d="M 25465 7285 L 24698.9 5226.12" fill="none" stroke="#82b366" stroke-width="40" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 24680.6 5176.91 L 24737.81 5230.31 L 24698.9 5226.12 L 24672.2 5254.72 Z" fill="#82b366" stroke="#82b366" stroke-width="40" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(130, 179, 102), rgb(68, 110, 44)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <path d="M 25315 7635 L 24761.09 7549.78" fill="none" stroke="#82b366" stroke-width="40" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+            <path d="M 24709.2 7541.8 L 24783.71 7517.85 L 24761.09 7549.78 L 24773.06 7587.04 Z" fill="#82b366" stroke="#82b366" stroke-width="40" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(130, 179, 102), rgb(68, 110, 44)); stroke: light-dark(rgb(130, 179, 102), rgb(68, 110, 44));"/>
+        </g>
+        <g>
+            <rect x="665" y="2935" width="5450" height="350" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 622px; margin-left: 678px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    ブロウシード１回目(マップ北基準）の担当位置
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="678" y="637" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px" text-anchor="middle">
+                        ブロウシード１回目(マップ北基準）の担当位置
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="11065" y="2935" width="6100" height="350" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 622px; margin-left: 2823px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    ブロウシード１回目(マップ北基準）＋ スイング 発動
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="2823" y="637" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px" text-anchor="middle">
+                        ブロウシード１回目(マップ北基準）＋ スイング 発動
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="23065" y="2935" width="3100" height="350" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 622px; margin-left: 4615px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    アイビーラリアット詠唱中
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="4615" y="637" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px">
+                        アイビーラリアット詠唱中
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="23065" y="9285" width="4350" height="650" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 1922px; margin-left: 4615px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    全員おおよそ中央付近に寄り、
+                                    <div>
+                                        各々自分がどこに行くかイメージする
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="4615" y="1937" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px">
+                        全員おおよそ中央付近に寄り、
+各々自分がどこに行くかイメージする
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="23065" y="10135" width="6100" height="650" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 2092px; margin-left: 4615px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    近接は移動系アビリティなどでラリアット後のボスに
+                                    <div>
+                                        近づくと後に散会しやすいかもしれない（お好みで）
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="4615" y="2107" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px">
+                        近接は移動系アビリティなどでラリアット後のボスに
+近づくと後に散会しやすいかもしれない（お好みで）
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="30465" y="2935" width="7100" height="350" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 622px; margin-left: 6095px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    アイビーラリアット実行後＋ブロウシード２回目（ボス基準）
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6095" y="637" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px">
+                        アイビーラリアット実行後＋ブロウシード２回目（ボス基準）
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="30465" y="9285" width="9100" height="650" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 1922px; margin-left: 6095px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    このタイミングのボス基準で散会位置が決まっている
+                                    <div>
+                                        【アイビーラリアット】実行前にこれをイメージしておかないと出遅れたりする
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6095" y="1937" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px">
+                        このタイミングのボス基準で散会位置が決まっている
+【アイビーラリアット】実行前にこれをイメージしておかないと出遅れたりする
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="41465" y="2935" width="4250" height="350" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 622px; margin-left: 8718px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    ブロウシード２回目＋ スイング 発動
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="8718" y="637" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px" text-anchor="middle">
+                        ブロウシード２回目＋ スイング 発動
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <rect x="30465" y="10285" width="7350" height="350" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 2092px; margin-left: 6095px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                    種を捨てたら次の移動位置をイメージしておくと遅れなくて済む
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="6095" y="2107" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="50px">
+                        種を捨てたら次の移動位置をイメージしておくと遅れなくて済む
+                    </text>
+                </switch>
+            </g>
+        </g>
+        <g>
+            <ellipse cx="44265" cy="2285" rx="2250" ry="2250" fill="none" stroke="#c73500" stroke-opacity="0.7" stroke-width="75" pointer-events="all" style="stroke: light-dark(rgb(199, 53, 0), rgb(255, 145, 100));"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)scale(5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 898px; height: 1px; padding-top: 457px; margin-left: 8404px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                <div style="display: inline-block; font-size: 50px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ededed); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    BOSS
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="8853" y="472" fill="#000000" font-family="&quot;Helvetica&quot;" font-size="50px" text-anchor="middle">
+                        BOSS
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
